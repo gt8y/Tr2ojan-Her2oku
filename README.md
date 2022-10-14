@@ -6,7 +6,7 @@
 
 ## 食用方法
 
-拷贝一份v2rayN客户端的本地config.json文件，修改下面的部分代码并粘贴到本地JSON文件的对应代码中，导入自定义节点即可...
+拷贝一份v2rN客户端的本地config.json文件，修改下面的部分代码并粘贴到本地JSON文件的对应代码中，导入自定义节点即可...
 
   "outbounds": [
     {
@@ -48,6 +48,6 @@
 
 ## 声明
 
-基于bclswl0827大佬的项目修改
+基于bclsw-----l0827大佬的项目修改
 
-原作者链接https://github.com/bclswl0827/v2ray-heroku
+原作者链接https://github.com/bclswl0827/v2----ray-her---oku
